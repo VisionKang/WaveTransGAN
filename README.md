@@ -1,1 +1,1 @@
-WaveTrans: Infrared and Visible Image Fusion Based on Triple-Branch Conditional Generative Adversarial Network with Wavelet Transform and Swin Transformer
+WaveTrans: Infrared and Visible Image Fusion Based on Swin Transformer-Empowered GAN Combined with Wavelet Transform

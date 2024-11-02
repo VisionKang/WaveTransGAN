@@ -1,1 +1,1 @@
-WaveTransGAN: A Wavelet-Guided and Swin Transformer-Empowered GAN Model for Infrared and Visible Images Fusion
+WaveTransGAN: A Wavelet-Guided and Swin Transformer-Empowered GAN Model for Infrared and Visible Image Fusion

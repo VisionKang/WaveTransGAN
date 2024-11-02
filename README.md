@@ -1,1 +1,1 @@
-WaveTrans: Infrared and Visible Image Fusion Based on Swin Transformer-Empowered GAN Combined with Wavelet Transform
+WaveTransGAN: A Wavelet-Guided and Swin Transformer-Empowered GAN Model for Infrared and Visible Images Fusion
